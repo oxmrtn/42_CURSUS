@@ -1,0 +1,12 @@
+[submodule "CERCLE_1/ft_printf"]
+	path = CERCLE_1/ft_printf
+	url = git@vogsphere.42paris.fr:vogsphere/intra-uuid-0cae2288-af45-41dc-ac72-8f1d801dc9b8-5715469-mtrullar
+[submodule "CERCLE_1/get_next_line"]
+	path = CERCLE_1/get_next_line
+	url = git@vogsphere.42paris.fr:vogsphere/intra-uuid-a517d176-4dd1-4700-ad24-87c79ba18602-5709062-mtrullar
+[submodule "CERCLE_1/Born2beroot"]
+	path = CERCLE_1/Born2beroot
+	url = git@vogsphere.42paris.fr:vogsphere/intra-uuid-ff39a4e5-1555-4209-ac1f-01e2dd2e19b1-5730931-mtrullar
+[submodule "ft_libft"]
+	path = ft_libft
+	url = git@vogsphere.42paris.fr:vogsphere/intra-uuid-805b28b1-baa8-47f3-983c-932b23f4783d-5690098-mtrullar
